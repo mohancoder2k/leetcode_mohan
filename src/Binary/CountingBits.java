@@ -15,7 +15,7 @@ public class CountingBits {
 		
 	}
 	
-	// My Method to convert decimal into BINARY
+	// My  to convert decimal into BINARY
 	public static String decimal(int n) {
 		if(n==0) {
 			return "0";
